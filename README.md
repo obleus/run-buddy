@@ -13,3 +13,6 @@ file:///Users/odneybleus/Desktop/projects/run-buddy/index.html
 
 ## Contribution
 Made with ❤️ by Odney Bleus
+
+
+### ©️2019 Run Buddy, Inc 
