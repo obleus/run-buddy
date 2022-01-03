@@ -14,4 +14,6 @@ https://obleus.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Odney Bleus
 
-# Run Buddy Inc.
+
+### ©️2019 Run Buddy, Inc 
+
