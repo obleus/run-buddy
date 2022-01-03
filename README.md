@@ -9,7 +9,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-file:///Users/odneybleus/Desktop/projects/run-buddy/index.html
+https://obleus.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Odney Bleus
+
+# Run Buddy Inc.
